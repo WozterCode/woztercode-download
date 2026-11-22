@@ -8,15 +8,15 @@ WozterCode Desktop is a desktop code editor designed for developers, with an ext
 
 Official installers and application packages will be available through [GitHub Releases](https://github.com/WozterCode/woztercode-download/releases).
 
-**Current status:** Beta preparation.
+**Current release:** [WozterCode 2.0.0](https://github.com/WozterCode/woztercode-download/releases/tag/v2.0.0).
 
 ### Supported Platforms
 
-- **Windows:** x64 — initial beta target
-- **Linux:** Planned
+- **Windows:** x64 installer
+- **Linux x64:** Debian package (`.deb`), RPM package (`.rpm`), AppImage, and portable archive (`.tar.gz`)
 - **macOS:** Planned
 
-Downloads will be published only after platform-specific builds and testing are completed.
+This release provides Windows and Linux downloads. macOS is not included in version 2.0.0.
 
 ## Free Software Distribution
 
@@ -28,7 +28,7 @@ WozterCode includes components derived from Code - OSS and other third-party ope
 
 ## Source Code Archives
 
-GitHub automatically generates source archives for this download repository. These archives contain only the repository's distribution metadata, not the WozterCode Desktop application source code.
+GitHub's v2.0.0 source archives are generated from an empty release snapshot, so they contain no application source code. Download the Windows installer or Linux package from the release assets above.
 
 ## Copyright
 
