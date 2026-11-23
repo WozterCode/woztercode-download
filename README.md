@@ -13,10 +13,10 @@ Official installers and application packages are available through [GitHub Relea
 ### Supported Platforms
 
 - **Windows x64:** [Download the 2.0.1 installer](https://github.com/WozterCode/woztercode-download/releases/download/v2.0.1/WozterCodeSetup-x64-2.0.1.exe)
-- **Linux x64:** Debian package (`.deb`), RPM package (`.rpm`), AppImage, and portable archive (`.tar.gz`) are available in the [2.0.0 release](https://github.com/WozterCode/woztercode-download/releases/tag/v2.0.0).
+- **Linux x64:** Debian package (`.deb`), RPM package (`.rpm`), AppImage, and portable archive (`.tar.gz`) builds are being prepared.
 - **macOS:** Planned
 
-The 2.0.1 release provides the Windows x64 installer. Linux packages from 2.0.0 remain available while updated Linux builds are prepared.
+The 2.0.1 release currently provides the Windows x64 installer. Updated Linux packages are being prepared.
 
 ## Free Software Distribution
 
@@ -28,7 +28,7 @@ WozterCode includes components derived from Code - OSS and other third-party ope
 
 ## Source Code Archives
 
-GitHub's v2.0.1 source archives are generated from an empty release snapshot, so they contain no application source code. Download the Windows installer or Linux package from the release assets above.
+GitHub's v2.0.1 source archives are generated from an empty release snapshot, so they contain no application source code. Download the Windows installer from the release assets above.
 
 # Copyright
 
